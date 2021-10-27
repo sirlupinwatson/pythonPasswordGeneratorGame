@@ -1,7 +1,7 @@
 # Python 3.9.7 Password Generator Game
 
-Create a password generator that will generate a password of a certain length and complexity
-The password should contain at least one uppercase letter, one lowercase letter, tree number and tree special character
+Create a password generator that will generate a password of a certain length and complexity.
+The password should contain at least one uppercase letter, one lowercase letter, tree number and tree special character.
 
 1- *Start by Installing Visual Studio Code* 
 https://code.visualstudio.com/
